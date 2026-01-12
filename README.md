@@ -1,5 +1,4 @@
-# Viktor_Cikarski
-👋 Hi, I’m Viktor
+Hi, I’m Viktor
 
 I’m a Computer Science graduate with a strong interest in software development, cloud technologies, and cybersecurity. I enjoy working on practical projects, learning new tools, and improving my problem-solving skills through real-world applications.
 
